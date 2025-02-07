@@ -10,6 +10,7 @@ The following are things you need to watch out for:
   - Always put the correct syntax when typing (putting a letter instead of a number will result in an error)
   - There is no way to save progress (like save codes)
   - Finishing up aligning story line and names
+
 All of these are planned to be fixed in the future.
 
 Here is the document with all of the endings. It kinda spoils it and ruins the fun if you look at it before playing it so test the game out beforehand. 
