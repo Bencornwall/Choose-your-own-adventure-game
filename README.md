@@ -14,5 +14,5 @@ The following are things you need to watch out for:
 All of these are planned to be fixed in the future.
 
 Here is the document with all of the endings. It kinda spoils it and ruins the fun if you look at it before playing it so test the game out beforehand.  
-https://shorturl.at/IC2No
+https://www.canva.com/design/DAGVQcCFVes/iZKJyrzBext6Z3wV3WrQVQ/view?utm_content=DAGVQcCFVes&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h17b5bb5702
 
