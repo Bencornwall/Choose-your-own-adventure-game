@@ -1,4 +1,5 @@
 # Choose-your-own-adventure-game
+(python)
 
 This is a choose your own adventure game where you get to, well, choose your own adventure! 
 In it you play as a somewhat brave adventurer who was given a quest by a mysterious man at a bar. You run into perilous traps and enemys, and also not so perilous ones too.
